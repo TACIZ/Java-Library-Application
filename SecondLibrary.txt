@@ -1,0 +1,5 @@
+Why art thou sad?,15
+Are you not amused?,16
+Are you having fun?,17
+I am having fun,18
+Can you dig it?,19
